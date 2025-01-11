@@ -1,10 +1,11 @@
 <script setup lang="ts">
   import AppHeader from './components/AppHeader.vue';
-  import ListItem from './components/ListItem.vue';
+  import ToDoList from './components/ToDoList.vue';
 </script>
 
 <template>
   <AppHeader />
+  <ToDoList />
 </template>
 
 <style scoped>

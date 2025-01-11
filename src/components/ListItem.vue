@@ -11,7 +11,7 @@
     </label>
 </template>
 
-<style>
+<style scoped>
     label {
         cursor: pointer;
     }
